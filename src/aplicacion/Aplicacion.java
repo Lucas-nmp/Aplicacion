@@ -9,6 +9,8 @@ public class Aplicacion {
         
         System.out.println("hola");
         
+        System.out.println("hola");
+        
     }
     
 }
